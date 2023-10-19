@@ -1,0 +1,23 @@
+.skills {
+  margin-left: 533px;
+  padding: 20px 2% 20px 4%;
+  width: 15%;
+  /* background-color: black; */
+}
+.skills-h4 {
+  color: #000;
+  font-family: "Open Sans", sans-serif;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  letter-spacing: 4px;
+}
+.paragraph {
+  color: #000;
+  font-family: "Open Sans", sans-serif;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
